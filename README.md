@@ -1,2 +1,4 @@
-# TED-Data-Analysis
-Since the time we have begun watching TED Talks, they have never ceased to amaze us. We have learned an incredible amount, about fields we were completely alien to, in the form of poignant stories, breathtaking visuals and subtle humor. So in this notebook, we are attempting at finding insights about the world of TED, its speakers and its viewers and try to answer a few questions.
+# EXPLORATORY DATA ANALYSIS
+This is a repository displaying varied Exploratory Data Analysis techniques performed on different datasets. 
+The repository consists of separate folders for each use case. 
+>Each folder consists of the dataset, file explaining the use case, and a jupyter notebook exclusively demonstrating its specific EDA.
